@@ -1,0 +1,7 @@
+weights/
+.idea/
+.git/
+__pycache__/
+/log/
+/logs/
+/logs_analysis/output/
